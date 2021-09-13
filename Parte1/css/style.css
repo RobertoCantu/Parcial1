@@ -1,0 +1,30 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  font-size: 15px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: double;
+  border-image-width: 5px;
+}
+
+.date {
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 50px;
+}
